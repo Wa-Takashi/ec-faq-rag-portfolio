@@ -91,7 +91,19 @@ EC-CS FAQチャットボット（miibo × RAG）
 ---
 
 ## 成果物（スクリーンショット例）
-※ここにスクリーンショットを貼る予定。
+
+### ナレッジ登録
+![ナレッジ登録](./screenshots/knowledge-registration.png)
+
+### 配送テスト
+![配送テスト](./screenshots/test-shipping-answer.png)
+
+### 返品テスト
+![返品テスト](./screenshots/test-returns-answer.png)
+
+### エスカレーション例
+![エスカレーション](./screenshots/test-escalation.png)
+
 
 ---
 
