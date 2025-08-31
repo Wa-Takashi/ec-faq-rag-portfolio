@@ -90,19 +90,19 @@ EC-CS FAQチャットボット（miibo × RAG）
 
 ---
 
-## 成果物（スクリーンショット例）
+## スクリーンショット
 
 ### ナレッジ登録
-![ナレッジ登録](./screenshots/knowledge-registration.png)
+<img src="./screenshots/knowledge-registration.png" alt="ナレッジ登録" width="600">
 
 ### 配送テスト
-![配送テスト](./screenshots/test-shipping-answer.png)
+<img src="./screenshots/test-shipping-answer.png" alt="配送テスト" width="600">
 
 ### 返品テスト
-![返品テスト](./screenshots/test-returns-answer.png)
+<img src="./screenshots/test-returns-answer.png" alt="返品テスト" width="600">
 
 ### エスカレーション例
-![エスカレーション](./screenshots/test-escalation.png)
+<img src="./screenshots/test-escalation.png" alt="エスカレーション" width="600">
 
 
 ---
